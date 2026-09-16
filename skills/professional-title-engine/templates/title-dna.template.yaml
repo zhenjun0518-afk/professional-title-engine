@@ -1,0 +1,71 @@
+title_dna_version: "1.0"
+skill_id: "professional-title-engine"
+profile_name: "default"
+languages: ["zh-CN", "en"]
+
+scope:
+  account: "待填写 / to-be-filled"
+  platform: "multi"
+  content_types: []
+  date_range: "待填写 / to-be-filled"
+
+sample_summary:
+  total_samples: 0
+  comparable_samples: 0
+  metrics_available: []
+  limitations: []
+
+dna:
+  preferred_length:
+    range: null
+    confidence: "CASE"
+    evidence: []
+  structure:
+    preferred: []
+    avoid: []
+    confidence: "CASE"
+    evidence: []
+  punctuation:
+    preferred: []
+    avoid: []
+    confidence: "CASE"
+    evidence: []
+  opening_anchor:
+    preferred: []
+    confidence: "CASE"
+    evidence: []
+  kernel_preference:
+    weights: {}
+    confidence: "CASE"
+    evidence: []
+  first_person:
+    tendency: "unknown"
+    confidence: "CASE"
+    evidence: []
+  number_usage:
+    tendency: "only_when_decision_relevant"
+    confidence: "CASE"
+    evidence: []
+  intensity:
+    wechat: "unknown"
+    xiaohongshu: "unknown"
+    zhihu: "unknown"
+    other: "unknown"
+    confidence: "CASE"
+    evidence: []
+  natural_lexicon:
+    preferred: []
+    confidence: "CASE"
+    evidence: []
+  banned_lexicon:
+    words: []
+    reason: []
+  platform_variants: {}
+  recurring_patterns: []
+  counterexamples: []
+
+policy:
+  external_examples_can_override_dna: false
+  single_hit_can_become_rule: false
+  causal_claims_from_observational_history: false
+  current_user_instruction_overrides_dna: true
