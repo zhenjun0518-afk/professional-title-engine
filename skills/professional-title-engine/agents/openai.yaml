@@ -1,0 +1,4 @@
+interface:
+  display_name: "标题大师 / Professional Title Engine"
+  short_description: "中英双语标题生成、诊断、复盘与个人标题DNA学习 / Bilingual headline generation, diagnosis, review, and Title DNA learning"
+  default_prompt: "使用 $professional-title-engine，先提炼内容内核并核验承诺，再生成适合目标平台的标题；如果我用英文输入，请自动用英文输出。 / Use $professional-title-engine to extract the content kernel, verify promises, and generate platform-adapted headlines; respond in the same language I use."
