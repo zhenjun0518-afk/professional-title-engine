@@ -1,0 +1,3 @@
+skills/professional-title-engine/data/*
+!skills/professional-title-engine/data/.gitkeep
+.DS_Store
