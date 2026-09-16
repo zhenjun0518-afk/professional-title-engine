@@ -1,0 +1,12 @@
+{
+  "name": "professional-title-engine",
+  "display_name": "标题大师 / Professional Title Engine",
+  "version": "1.1.0",
+  "languages": ["zh-CN", "en"],
+  "skill_entry": "skills/professional-title-engine/SKILL.md",
+  "localized_entries": {
+    "zh-CN": "skills/professional-title-engine/SKILL.zh-CN.md",
+    "en": "skills/professional-title-engine/SKILL.en.md"
+  },
+  "license": "Apache-2.0"
+}
